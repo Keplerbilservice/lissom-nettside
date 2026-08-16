@@ -1,0 +1,9 @@
+LISSOM NETTSIDE - TESTVERSJON
+
+Slik tester du:
+1. Pakk ut hele zip-filen (viktig - ikke aapne direkte fra zip).
+2. Aapne filen "Lissom nettside.dc.html" i nettleseren (dobbeltklikk).
+3. "Mobilvisning.dc.html" viser siden slik den ser ut paa mobil.
+
+Du maa vaere paa nett for at ikoner og skrifttyper skal lastes.
+Dette er en klikkbar prototype - betaling og booking er demo.
